@@ -1,5 +1,5 @@
 {
-    "name": "movement data logger stable",
+    "name": "movement data logger",
     "description": "",
     "dependencies": {
         "core": "*",
